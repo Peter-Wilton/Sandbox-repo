@@ -1,3 +1,3 @@
 # Sandbox-repo
 Sandbox repo
-# this is all about having a look around
+# this is all about playing around with the features
